@@ -58,3 +58,17 @@ Traditional disease detection methods often require expert inspection, making th
 - Tomato Leaf Mold
 - Tomato Septoria Leaf Spot
 - Tomato Yellow Leaf Curl Virus
+
+- ## 🏗️ Model Architecture
+
+```python
+ResNet50
+   │
+   ├── Pretrained Weights
+   │
+   ├── Feature Extraction Layers
+   │
+   └── Custom Classification Head
+            │
+            └── 10 Disease Classes
+```
