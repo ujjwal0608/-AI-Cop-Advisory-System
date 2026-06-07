@@ -1,0 +1,15 @@
+# --- Core Deep Learning & Computer Vision ---
+torch
+torchvision
+pillow
+
+# --- Generative AI Features ---
+google-genai
+
+# --- User Interface & Deployment ---
+gradio
+
+# --- Data Utilities (Optional but highly recommended for backend logging/metrics) ---
+pandas
+numpy
+scikit-learn
